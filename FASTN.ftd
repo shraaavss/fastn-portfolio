@@ -6,7 +6,7 @@ favicon: /-/shraaavss.github.io/fastn-portfolio/favicon.ico
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
--- fastn.dependency: ayushsoni1010.github.io/ui-packages as package
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages as package 
 
 -- fastn.auto-import: shraaavss.github.io/fastn-portfolio/FASTN/ds
 -- fastn.auto-import: shraaavss.github.io/fastn-portfolio/assets
